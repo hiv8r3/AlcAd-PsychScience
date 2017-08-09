@@ -1,1 +1,1 @@
-# AlcAd-PsychScience
+# This repository contains data reported in Bartholow, B.D., Loersch, C., & Ito, T.A., Volpert-Esmond, H. I., Levsen, M.P., Fleming, K.A., Bolls, P., & Carter, B. (in press). University-affiliated alcohol marketing enhances the incentive salience of alcohol cues. Psychological Science.
